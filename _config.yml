@@ -24,6 +24,7 @@ avatar_image: /img/Sola_pics.jpg
 # Contact links
 linkedln: "https://www.linkedin.com/in/sola-agagu" # Add your linkedln handle
 github: "https://github.com/sholayy/"  # Add your github handle
+Tableau: "https://public.tableau.com/app/profile/sola.agagu/vizzes" # Add your Tableau handle
 
 paginate: 6
 paginate_path: "/page/:num"
